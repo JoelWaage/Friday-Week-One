@@ -3,5 +3,17 @@
   width:50%;
   height:auto;
   float:right;
-  margin-top:100px;
+  padding-top:10em;
+  padding-right:0px;
+}
+body{
+  background-color: #003399;
+}
+h1 {
+  font-size:30px;
+  line-height: 40px;
+}
+h6{
+  font-size:15px;
+  line-height: 10px;
 }
