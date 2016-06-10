@@ -1,0 +1,7 @@
+.rotate{
+  transform:rotate(90deg);
+  width:50%;
+  height:auto;
+  float:right;
+  margin-top:100px;
+}
