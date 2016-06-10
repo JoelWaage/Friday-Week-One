@@ -6,6 +6,7 @@
 }
 body{
   background-color: #003399;
+  background-image: img/headband.jpg;
 }
 h1 {
   font-size:30px;
@@ -14,4 +15,10 @@ h1 {
 h6{
   font-size:15px;
   line-height: 10px;
+}
+.jumbotron{
+  padding-right:0px;
+}
+p{
+  color:#b3b3ff;
 }
