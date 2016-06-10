@@ -1,12 +1,11 @@
 .rotate{
   transform:rotate(90deg);
-  width:50%;
+  width:40%;
   height:auto;
   float:right;
 }
 body{
   background-color: #003399;
-  background-image: img/headband.jpg;
 }
 h1 {
   font-size:30px;
