@@ -25,3 +25,11 @@ p{
 .btn {
   float:left;
 }
+.navbar{
+  padding-right:40px;
+}
+.glyphicon{
+  font-weight:bold;
+  font-size: 15px;
+  float:right;
+}
