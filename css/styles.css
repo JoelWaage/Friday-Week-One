@@ -15,9 +15,10 @@ h6{
   font-size:15px;
   line-height: 10px;
 }
-.jumbotron{
-  padding-right:0px;
-}
 p{
   color:#b3b3ff;
+}
+.jumbotron{
+  background: url("http://myregzaphone.qlookblog.net/wood1.320px.jpg");
+  text-align: left;
 }
